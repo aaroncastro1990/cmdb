@@ -54,3 +54,5 @@ pkg
 
 # For IntelliJ/RubyMine
 .idea/*
+
+vendor
